@@ -27,11 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
-
 SITE_ID = 1
 
 ACCOUNT_EMAIL_VERIFICATION = 'none'
-
 
 # Application definition
 
